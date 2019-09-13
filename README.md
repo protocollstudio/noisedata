@@ -2,15 +2,13 @@
 Collection of OSC graphics modules.
 
 ## Requirements
-- OscP5 (processing library)
+- p5.js
 
 ## Usage
 Duplicate "Module" class to create another module.
 
 ### Scene managing
-- Copy example.states.pde 
-- Rename it states.pde
-- And modify it at your convenience
+...
 
 
 ## Best practices
